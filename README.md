@@ -4,7 +4,7 @@ This script is designed to help you switch between different Git accounts on you
 
 ## Getting Started
 
-1. Download the `git-account-switcher.sh` script to your Macbook.
+1. Clone this repo.
 2. Open a terminal and navigate to the directory where you saved the script.
 3. Make the script executable by running the following command:
 ```
