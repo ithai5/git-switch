@@ -1,5 +1,3 @@
-Sure, here's a sample `README.md` file you can use:
-
 # Git Account Switcher
 
 This script is designed to help you switch between different Git accounts on your Macbook. It allows you to set your Git username and email, as well as the SSH key associated with your Git account.
