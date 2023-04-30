@@ -15,8 +15,8 @@ chmod +x git-swith.sh
 
 To use the script, follow these steps:
 
-1. Open a terminal and navigate to the directory where you saved the `git-account-switcher.sh` script.
-2. Run the script by typing `./git-account-switcher.sh` and pressing `Enter`.
+1. Open a terminal and navigate to the directory where you saved the `git-switch.sh` script.
+2. Run the script by typing `./git-switch.sh` and pressing `Enter`.
 3. Follow the prompts to enter your Git username, email, and select your SSH public key file.
 4. If your SSH key has a passphrase, enter it when prompted.
 5. The script will set your Git account information and add your SSH key to the SSH agent.
@@ -26,7 +26,7 @@ You can also create an alias to run the script with a shorthand command. To do t
 alias switch-git-account='/path/to/git-switch.sh'
 ```
 
-Replace `/path/to/git-account-switcher.sh` with the actual path to the script on your Macbook. For example, if you saved the script in your home directory, the path would be `~/git-switch.sh`.
+Replace `/path/to/git-switch.sh` with the actual path to the script on your Macbook. For example, if you saved the script in your home directory, the path would be `~/git-switch.sh`.
 
 Once you've added the alias, you can run the script by typing `switch-git-account` in the terminal.
 
