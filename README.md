@@ -23,12 +23,12 @@ To use the script, follow these steps:
 
 You can also create an alias to run the script with a shorthand command. To do this, add the following line to your `.bash_profile` file:
 ```
-alias switch-git-account='/path/to/git-switch.sh'
+alias git-switch='/path/to/git-switch.sh'
 ```
 
 Replace `/path/to/git-switch.sh` with the actual path to the script on your Macbook. For example, if you saved the script in your home directory, the path would be `~/git-switch.sh`.
 
-Once you've added the alias, you can run the script by typing `switch-git-account` in the terminal.
+Once you've added the alias, you can run the script by typing `git-switch` in the terminal.
 
 ## Troubleshooting
 
